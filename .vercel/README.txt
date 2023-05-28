@@ -1,0 +1,1 @@
+Understood all the functioning of the .vercel folder
