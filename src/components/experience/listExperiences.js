@@ -4,7 +4,7 @@ import Exps from '../exps';
 import useFetch from "../../useFetch";
 
 const ListExperiences = () => {
-  const { data,isPending,error } = useFetch("https://dorayback.onrender.com/api/experience/experiences");
+  const { data,isPending,error } = useFetch("https://oyere.onrender.com/api/experience/experiences");
 
  
   
