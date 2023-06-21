@@ -2,8 +2,7 @@ import React from 'react'
 import './services.css'
 import ListServices from './listServices'
 
-
-export const Services = () => {
+const Services = () => {
   return (
     <section id="services">
       <h5>What i offer</h5>
@@ -14,4 +13,5 @@ export const Services = () => {
     </section>
   );
 }
-export default Services;
+
+export default Services
