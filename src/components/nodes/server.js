@@ -8,7 +8,7 @@ const express = require('express');
  app.use(cors());
 
  //connect to mongodb
- const dbURI = 'mongodb+srv://mewoabi:doremi@cluster0.lvz80tk.mongodb.net/portfolio?retryWrites=true&w=majority';
+ const dbURI = 'mongodb+srv://oemmy0283:doremi@cluster0.vjphxf7.mongodb.net/portfolio?retryWrites=true&w=majority';
 
  mongoose.connect(dbURI)
    .then(result=>{
